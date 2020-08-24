@@ -1,8 +1,6 @@
-# Camera 2 Plugin
+# Camera Plugin
 
 [![pub package](https://img.shields.io/pub/v/camera.svg)](https://pub.dartlang.org/packages/camera)
-
-*Note*: This plugin is just copying official camera plugin, I just add some feature like torch
 
 A Flutter plugin for iOS and Android allowing access to the device cameras.
 
